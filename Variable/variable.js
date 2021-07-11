@@ -23,4 +23,3 @@ myFavNumber = "maybe 1";
 const sayLove = () => {
     alert("I Love TypeScript");
 };
-//# sourceMappingURL=variable.js.map
